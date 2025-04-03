@@ -11,8 +11,10 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/Alinagarbuz" target="_blank">
+   <a href="https://t.me/Alinagarbuz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="(https://www.kaggle.com/alinagarbuz)" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-00CCBB?style=flat-square&logo=Kaggle&logoColor=white"></a>
+  <a href="https://ods.ai/users/r327e43fe2fc7" target="_blank"><img alt="ADS" src="https://img.shields.io/badge/-ADS-A6CE39?style=flat-square&logo=ADS.AI&logoColor=white"></a>
   </a>
 </div>
 
